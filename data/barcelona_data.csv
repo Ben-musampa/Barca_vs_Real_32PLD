@@ -1,1 +1,37 @@
-
+DORSAL,POSITION,NAME,MIN,PLD,TIT,SUP,SUST,YC,RC,2Y,GOALS,PEN,GC
+1,Goalkeeper,Ter Stegen,495,6,6,0,1,0,0,0,0,0,5
+2,Defender,Cubarsí,2344,31,26,5,8,3,0,0,0,0,27
+3,Defender,Balde,2088,28,25,3,12,2,0,0,0,0,19
+4,Defender,R. Araujo,462,8,7,1,4,1,0,0,1,0,4
+5,Defender,I. Martinez,2223,25,25,0,3,4,0,0,0,0,25
+6,Midfielder,Gavi,725,20,10,10,8,4,0,0,1,0,8
+7,Forward,Ferran,934,25,10,15,8,1,1,0,10,0,18
+8,Midfielder,Pedri,2451,31,29,2,17,2,0,0,4,0,25
+9,Forward,Lewandowski,2453,31,29,2,14,1,0,0,25,3,25
+10,Forward,Ansu Fati,125,4,1,3,1,1,0,0,0,0,0
+11,Forward,Raphinha,2437,30,28,2,8,4,0,0,15,2,25
+13,Goalkeeper,Iñaki Peña,1305,15,14,1,0,1,0,0,0,0,18
+14,Midfielder,Pablo Torre,308,10,4,6,4,0,0,0,3,0,4
+15,Defender,Christensen,26,1,0,1,0,1,0,0,0,0,0
+16,Midfielder,Fermin,909,22,9,13,8,3,1,0,3,0,11
+17,Midfielder,M. Casadó,1616,23,20,3,9,2,1,1,1,0,14
+18,Forward,Pau Victor,216,17,1,16,1,2,0,0,2,0,5
+19,Forward,Lamine Yamal,2363,29,26,3,10,3,0,0,6,0,22
+20,Midfielder,Dani Olmo,941,19,10,9,10,0,0,0,8,1,7
+21,Midfielder,F. De Jong,853,20,7,13,6,3,0,0,2,0,13
+23,Defender,Kounde,2606,32,29,3,4,4,0,0,2,0,30
+24,Defender,Eric,1124,23,9,14,3,3,0,0,1,0,11
+25,Goalkeeper,Szczesny,1080,12,12,0,0,0,0,0,0,0,9
+26,Goalkeeper,Astralaga,0,0,0,0,0,0,0,0,0,0,0
+28,Midfielder,Marc Bernal,243,3,3,0,2,2,0,0,0,0,3
+31,Goalkeeper,Kochen,0,0,0,0,0,0,0,0,0,0,0
+32,Defender,Héctor Fort,370,12,3,9,3,2,0,0,0,0,7
+34,Midfielder,Darvich,0,0,0,0,0,0,0,0,0,0,0
+35,Defender,Martín,769,22,7,15,4,2,0,0,1,0,11
+36,Defender,Sergi Domínguez,173,3,2,1,2,1,0,0,0,0,4
+38,Defender,Alexis Olmedo,0,0,0,0,0,0,0,0,0,0,0
+39,Defender,Andrés Cuenca,0,0,0,0,0,0,0,0,0,0,0
+40,Goalkeeper,Aron,0,0,0,0,0,0,0,0,0,0,0
+41,Midfielder,Guille Fernández,0,0,0,0,0,0,0,0,0,0,0
+42,Forward,Toni Fernández,0,0,0,0,0,0,0,0,0,0,0
+43,Defender,Alvaro Cortes,0,0,0,0,0,0,0,0,0,0,0
