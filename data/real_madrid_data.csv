@@ -1,0 +1,36 @@
+DORSAL,POSITION,NAME,MIN,PLD,TIT,SUP,SUST,YC,RC,GOALS,PEN,OG,GC
+1,Goalkeeper,Courtois,2340,26,26,0,0,1,0,0,0,1,22
+2,Defender,Carvajal,609,8,7,1,2,2,0,1,0,0,3
+3,Defender,E. Militão,940,12,11,1,2,2,0,1,0,0,9
+4,Defender,Alaba,271,6,3,3,2,1,0,0,0,0,4
+5,Midfielder,Bellingham,2108,26,25,1,9,3,1,8,1,0,26
+6,Midfielder,Camavinga,1052,18,11,7,3,2,0,1,0,0,10
+7,Forward,Vini Jr.,1971,26,21,5,9,8,1,11,2,0,18
+8,Midfielder,Valverde,2492,30,28,2,6,3,0,6,0,0,24
+9,Forward,Mbappé,2465,29,29,0,11,3,1,22,6,0,25
+10,Midfielder,Modrić,1491,30,14,16,8,7,0,2,0,0,19
+11,Forward,Rodrygo,1920,29,22,7,17,0,0,6,0,0,17
+13,Goalkeeper,Lunin,450,5,5,0,0,0,0,0,0,0,7
+14,Midfielder,Tchouameni,2276,27,26,1,3,3,0,0,0,0,25
+15,Midfielder,Arda Güler,784,22,8,14,8,1,0,1,0,0,10
+16,Forward,Endrick,151,18,0,18,0,1,0,1,0,0,4
+17,Defender,Lucas V.,1839,27,21,6,9,4,0,1,0,0,27
+18,Defender,Vallejo,10,1,0,1,0,0,0,0,0,0,2
+19,Midfielder,D. Ceballos,894,17,11,6,9,4,0,0,0,0,5
+20,Defender,Fran García,1647,25,18,7,4,0,0,0,0,0,16
+21,Midfielder,Brahim,1183,27,14,13,10,0,0,4,0,0,16
+22,Defender,Rüdiger,2291,29,26,3,2,3,0,0,0,0,25
+23,Defender,F. Mendy,1006,14,12,2,6,1,1,0,0,0,13
+26,Goalkeeper,Fran González,90,1,1,0,0,0,0,0,0,0,2
+29,Defender,Youssef,0,0,0,0,0,0,0,0,0,0,0
+30,Forward,Gonzalo,0,0,0,0,0,0,0,0,0,0,0
+31,Defender,Jacobo,0,0,0,0,0,0,0,0,0,0,0
+34,Goalkeeper,Mestre,0,0,0,0,0,0,0,0,0,0,0
+35,Defender,Asencio,1272,18,13,5,3,2,0,0,0,0,11
+36,Midfielder,Chema,7,1,0,1,0,0,0,0,0,0,0
+38,Defender,D. Jiménez,0,0,0,0,0,0,0,0,0,0,0
+39,Defender,Lorenzo,4,2,0,2,0,0,0,0,0,0,0
+42,Forward,Yañez,1,1,0,1,0,0,0,0,0,0,0
+43,Defender,Diego Aguado,0,0,0,0,0,0,0,0,0,0,0
+44,Forward,Víctor Muñoz,0,0,0,0,0,0,0,0,0,0,0
+45,Defender,Valdepeñas,0,0,0,0,0,0,0,0,0,0,0
